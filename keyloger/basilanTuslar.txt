@@ -1,0 +1,8 @@
+
+deneme
+Key.space
+aga
+Key.ctrl_l
+
+Key.ctrl_l
+

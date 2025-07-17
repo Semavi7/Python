@@ -1,0 +1,12 @@
+{
+  "sorular": [
+    {
+      "soru": "selam",
+      "cevap": "selam"
+    },
+    {
+      "soru": "iyi öğrendin",
+      "cevap": "teşekkürler"
+    }
+  ]
+}
